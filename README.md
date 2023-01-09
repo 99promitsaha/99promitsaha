@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Promit</h1>
+<h1 align="center">Hi 👋, I'm Promit Saha</h1>
 <h3 align="center">A enthusiastic Web3 native exploring multiple horizons</h3>
 
 <p align="left"> <a href="https://twitter.com/99promitsaha" target="blank"><img src="https://img.shields.io/twitter/follow/99promitsaha?logo=twitter&style=for-the-badge" alt="99promitsaha" /></a> </p>
