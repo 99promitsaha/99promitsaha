@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/99promitsaha" target="blank"><img src="https://img.shields.io/twitter/follow/99promitsaha?logo=twitter&style=for-the-badge" alt="99promitsaha" /></a> </p>
 
-- 🔭 I’m currently working at [BuidlersTribe](https://buidlerstribe.com/)
+- 🔭 I’m currently working on [2024BULLRUN.com](https://2024bullrun.com/)
 
 - 🌱 I’m currently learning **React Native, Redux, Solidity**
 
