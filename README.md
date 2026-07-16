@@ -10,7 +10,7 @@ Product Marketer exploring AI, automation, and developer tools.
 
 I'm a product marketer with 4+ years of experience across product marketing, growth, and go-to-market.
 
-Most recently I worked at Persistence One, where I focused on product launches, CRM, lifecycle marketing, partnerships, and distribution. Outside work, I'm exploring AI agents, automation, and building small tools that make workflows faster.
+Most recently I worked at Persistence One, where I focused on product launches, CRM, partnerships, and distribution. Outside work, I'm exploring AI agents, automation, and building small tools that make workflows faster.
 
 Currently learning by building.
 
